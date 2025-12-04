@@ -12,7 +12,7 @@ My interests include web development, blazingly fast algorithms, data structures
 - **Databases:** SQLite, MySQL, PostgreSQL, MongoDB.
 - **Tools & Platforms:** Firebase, Docker, Kubernetes, GitHub Actions / CI, Vercel.
 
-## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/logs)
+## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/blog/)
 
 - [My Problems with MCP](https://0x15ba88ff.github.io/blog/posts/problems-with-mcp/)
 
