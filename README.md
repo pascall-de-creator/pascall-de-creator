@@ -2,15 +2,8 @@
 
 I am a software developer from the Milky Way, currently working from my basement, with a knack for building cool stuff.
 
-My interests include web development, blazingly fast algorithms, data structures, Linux (I use Nixos, btw), open-source, and other normal human activities like food.
+My interests include web development, blazingly fast algorithms, data structures, Linux (I use NixOS, btw), open-source, and other normal human activities like food.
 > Recently started to like writing test and TDD (let's not push it).
-
-## 🔧 Technologies & Tools
-
-- **Languages:** Python, JavaScript, Typescript, Rust, Go, C, C++, Lua, bash.
-- **Frameworks & Libraries:** React, Vue, Svelte, Astro, Node.js, Express, Django, Flask.
-- **Databases:** SQLite, MySQL, PostgreSQL, MongoDB.
-- **Tools & Platforms:** Firebase, Docker, Kubernetes, GitHub Actions / CI, Vercel.
 
 ## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/blog/)
 
