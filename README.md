@@ -3,7 +3,6 @@
 I am a software developer from the Milky Way, currently working from my basement, with a knack for building cool stuff.
 
 My interests include web development, blazingly fast algorithms, data structures, Linux (I use NixOS, btw), open-source, and other normal human activities like food.
-> Recently started to like writing test and TDD (let's not push it).
 
 ## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/blog/)
 
